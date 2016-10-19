@@ -3,5 +3,5 @@ output_dir: "."
 navbar:
   title: "Entenda a PEC241"
   left:
-    - text: "Início"
+    - text: "Vídeos Explicativos"
       href: index.html
