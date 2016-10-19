@@ -1,0 +1,7 @@
+name: "Entenda a PEC241"
+output_dir: "."
+navbar:
+  title: "Entenda a PEC241"
+  left:
+    - text: "Início"
+      href: index.html
