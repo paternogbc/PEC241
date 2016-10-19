@@ -1,10 +1,19 @@
 ---
 title: ""
 ---
+<br> <br>
 
-### 1. Entenda a PEC251 em 5 minutos
-[![IMAGE ALT TEXT](images/video1PQ.jpg)](https://www.youtube.com/watch?v=qk26TZXVDMY)
+## Vídeos Explicativos
 
+***
+**1. Entenda a PEC211 em 5 minutos**  
+[![](images/video1PQ.jpg)](https://www.youtube.com/watch?v=qk26TZXVDMY)
+
+**2. Pizza da PEC 241**  
+[![](images/video2PQ.jpg)](https://www.youtube.com/watch?v=NkG_3dv2nqo)
+
+**3. PEC 241 a ponte para o passado da educacao superior**  
+[![](images/video3PQ.jpg)](https://www.youtube.com/watch?v=8K81FpSkoMA)
 
 
 
