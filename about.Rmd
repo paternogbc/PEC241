@@ -7,10 +7,16 @@ title: "Documentos Técnicos"
 [OS IMPACTOS DO NOVO REGIME FISCAL PARA O FINANCIAMENTO DO SISTEMA ÚNICO DE SAÚDE E
 PARA A EFETIVAÇÃO DO DIREITO À SAÚDE NO BRASIL](docs/nota_ipea.pdf)
 
-**2. Conselho Federal de Economia (COFECON)**:
+**2. Conselho Federal de Economia (COFECON)**
 
 [NOTA oficial: COFECON diz Não à PEC241](docs/nota_COFECON.pdf)
 
-**3. Universidade Federal de Minas Gerais (UFMG)**:
+**3. Universidade Federal de Minas Gerais (UFMG)**
 
 [NOTA oficial: Conselho Universitário](docs/nota_UFMG.jpg)
+
+**4. Ministério Público Federal **
+
+[NOTA Técnica PGR/SRI](docs/nota_PGR_2016.pdf)
+Conclui que a PEC241 é inconstitucional
+
