@@ -5,3 +5,5 @@ navbar:
   left:
     - text: "Vídeos Explicativos"
       href: index.html
+    - text: "Documentos Técnicos"
+      href: about.html
