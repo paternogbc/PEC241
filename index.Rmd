@@ -1,11 +1,9 @@
 ---
 title: ""
 ---
-<br> <br>
 
 ## Vídeos Explicativos
 
-***
 **1. Entenda a PEC211 em 5 minutos**  
 [![](images/video1PQ.jpg)](https://www.youtube.com/watch?v=qk26TZXVDMY)
 
