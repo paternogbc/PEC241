@@ -2,6 +2,10 @@
 title: "Documentos Técnicos"
 ---
 
+![](images/PEC241.png)  
+
+***
+
 **1. Instituto de Pesquisa Econômica Aplicada (IPEA)**:
 
 [OS IMPACTOS DO NOVO REGIME FISCAL PARA O FINANCIAMENTO DO SISTEMA ÚNICO DE SAÚDE E
